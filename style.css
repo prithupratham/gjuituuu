@@ -1,0 +1,44 @@
+img{
+    height : 50px;
+    width: 50px;
+}
+#img{
+    background-color: grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    height: 350px;
+width: 850px;
+}
+.img-responsive{
+    height : 150px;
+    width: 150px; 
+}
+h5{
+    border-radius: 30px;
+    text-decoration-color: black;
+    background-color: white;
+    height: 30px;
+}
+b{
+    font-weight: bold;
+    color: indigo;
+}
+#image{
+    color : white;
+}
+#result{
+    color : white;
+}
+#heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+#opponent{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#line{
+    background-color: black;
+    height: 5px;
+    width: 950px;
+} 
